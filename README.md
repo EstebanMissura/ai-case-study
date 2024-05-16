@@ -6,12 +6,11 @@ Challenge 1
 
 ## Overview and Origin
 * Name of company
-#### Meta Platforms (Project by Meta AI in collaboration with Ray-Ban)
+#### Meta Platforms (project by Meta AI in collaboration with Ray-Ban)
 * When was the company incorporated?
-#### Meta Platforms was incorporated in 2015 (previously known as Facebook Inc., which started in 2004)    ##### Ray-Bay was incorporated in 1936
+#### Meta Platforms was incorporated in 2015 (previously known as Facebook Inc., which started in 2004), while Ray-Bay was incorporated in 1936.
 * Who are the founders of the company?
-#### Meta Platforms was founded by Mark Zuckerberg
-##### Ray-Ban was founded by Bausch & Lomb and was sold to Luxottica Group in 1999
+#### Meta Platforms was founded by Mark Zuckerberg, while Ray-Ban was founded by Bausch & Lomb and was later sold to Luxottica Group in 1999.
 * How did the idea for the company (or project) come about?
 #### This collaboration and project (Ray-Ban Stories – smart AI sunglasses) emerged from the idea of incorporating high-tech with everyday functionality in the fashion world. Meta AI in partnership with Ray-Ban, wanted to be leaders in this space, and provide a new and innovative experience for customers in the daily use, lifestyle, and accessories industry. It also allows these companies to expand their data collection capabilities and market research. 
 * How is the company funded? How much funding have they received?
